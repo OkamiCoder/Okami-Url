@@ -1,7 +1,7 @@
 # ◆ Okami URL
 
 <p>
-  <img src="./assets/banner.png" alt="project banner" width="100%">
+  <img src="./assets/banner.png" alt="project banner" width="65%">
 </p>
 
 A sleek, dark-themed desktop link shortener built with **CustomTkinter**. Paste a long URL, hit **Shorten**, and copy the result with a single click.
