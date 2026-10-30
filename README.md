@@ -15,11 +15,11 @@ A sleek, dark-themed desktop link shortener built with **CustomTkinter**. Paste 
 ## ✨ Features
 
 - 🖥️ Modern dark GUI built with CustomTkinter
-- 🔗 Shortens links via the [is.gd](https://is.gd) API — no API key required
+- 🔗 Shortens links via the [is.gd](https://is.gd) API - no API key required
 - 📋 One-click copy to clipboard (just click the shortened link)
 - ⌨️ Press `Enter` to shorten instantly
 - 🕵️ Chrome-impersonated requests with `curl_cffi` to avoid bot-blocking
-- ⚡ Lightweight — single file, zero bloat
+- ⚡ Lightweight - single file, zero bloat
 
 ## 📦 Installation
 
@@ -56,7 +56,7 @@ python okami-url.py
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.6+
 - Internet connection (for the is.gd API)
 
 ## 🤝 Contributing
