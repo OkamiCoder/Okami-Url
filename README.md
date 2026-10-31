@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ◆ by <a href="https://github.com/OkamiCoder/">OkamiCoder</a></p>
+<p align="center">Made with <3 by <a href="https://github.com/OkamiCoder/">OkamiCoder</a></p>
