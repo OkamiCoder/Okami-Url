@@ -1,4 +1,4 @@
-# ◆ Okami URL
+# Okami URL
 
 <p>
   <img src="./assets/banner.png" alt="project banner" width="100%">
